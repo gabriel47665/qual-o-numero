@@ -1,7 +1,7 @@
-#Qual o número?
-atividade da Digital College envolvendo HTML, CSS e JavaScript para adivinhar um número de 1 a 100.
+<h1 align="center"> Qual o número? </h1>
 
-Que número estou pensando agora???
+Atividade da Digital College envolvendo HTML, CSS e JavaScript para adivinhar um número de 1 a 100.
+
 
 Descrição:
 Vamos criar um jogo para adivinhar um número de 1 à 100 que vai ser gerado randomicamente.
