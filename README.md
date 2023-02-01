@@ -1,4 +1,4 @@
-# qual-o-numero
+Qual o número?
 atividade da Digital College envolvendo HTML, CSS e JavaScript para adivinhar um número de 1 a 100.
 
 Que número estou pensando agora???
