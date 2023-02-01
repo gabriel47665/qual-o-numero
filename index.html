@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Qual o número?</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <div class="container">
+      <h1>Em que número <span>Bia</span> está pensando?</h1>
+      <img id="imagemBia" src="img/Bia-pensando.png" alt="desenho da Bia">
+    </div>
+    <input type="number" min="1" max="100">
+    <div class="resultado" hidden>Parabéns o número é: <span>X</span></div>
+    <div class="resultadoErrado" hidden>Você não acertou, o número era: <span>X</span></div>
+    <button onclick="reiniciar()" hidden>Tentar novamente</button>
+    <h3>Seus palpites:</h3>
+    <div class="palpite"></div>
+   
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
